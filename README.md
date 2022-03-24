@@ -1,2 +1,2 @@
 # Previsao-do-tempo-com-API
-Api de Previsão do Tempo
+Api que realiza a Previsão do Tempo , para esse projeto utilizei as seguintes tecnologias :
