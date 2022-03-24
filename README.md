@@ -5,3 +5,4 @@ Api que realiza a Previsão do Tempo , para esse projeto utilizei as seguintes t
 - TypeScript : Responsável pelas funcões da página , além de chamada da api que realiza a previsão do tempo
 - Html: Estruturação da Página
 - Css : Estilização da página.
+- Angular : Responsável pela dinamicidade da página
